@@ -1,2 +1,2 @@
-# Static-Blogging
+# Static Blogging
 My first project on GitHub
